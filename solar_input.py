@@ -1,5 +1,12 @@
 # coding: utf-8
 # license: GPLv3
+fdfkjdfklldjfdls
+fdsfjjskljdklfk
+jfkdslfsjdlf
+jjjkldfjjdjkldg
+
+wkjkdg
+
 
 from solar_objects import Star, Planet
 
